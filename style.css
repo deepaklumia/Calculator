@@ -1,0 +1,56 @@
+.main{
+   background-color: rgb(0, 195, 255);
+    margin-top: 100px;
+    margin: 100px 730px 0px 730px;
+    text-align: center;
+     padding: 40px 0px 40px 0px;
+     border-radius: 50px;
+   
+}
+
+.row{
+    margin: 5px 5px 5px;
+}
+/* button{
+    height: 80px;
+    width: 80px;
+    border-radius: 20px;
+    font-size: large;
+    background-color: blue;
+
+} */
+input{
+    height: 50px;
+    width: 320px;
+    border: 2px solid black;
+    text-align: right;
+    font-size: large;
+    border-radius: 10px;
+    background-color: #1fa5aa;
+    color: aliceblue;
+}
+/* button:hover{
+    background-color: rgb(69, 69, 223);
+} */
+
+button {
+  font-size:large;
+  font-family:Arial;
+  width: 80px;
+  height:80px;
+  border-width:1px;
+  color:#fff;
+  border-color:rgba(74, 144, 226, 1);
+  border-top-left-radius:17px;
+  border-top-right-radius:17px;
+  border-bottom-left-radius:17px;
+  border-bottom-right-radius:17px;
+  box-shadow:inset 0px 0px 15px 3px rgba(35, 90, 94, 1);
+  text-shadow:inset 0px 1px 0px rgba(38, 102, 100, 1);
+  background:linear-gradient(rgba(46, 99, 110, 1), rgba(65, 137, 132, 1));
+}
+
+button:hover {
+ background: linear-gradient(rgba(65, 137, 132, 1), rgba(46, 99, 110, 1));
+}
+              
